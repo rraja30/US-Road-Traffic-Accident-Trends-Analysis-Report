@@ -2,6 +2,7 @@
 #### Q2: How do environmental variables (visibility, precipitation, and temperature) affect the number of traffic accidents before and during the Covid-19 Pandemic?
 #### Q2 Hypothesis: 
 Null Hypothesis(H0): There is no evidence of a coorelation between environmental factors and traffic accidents, even when analyzed before and during the COVID-19 pandemic. 
+
 Alternative Hypothesis (Ha): Based on data separated by the start of the COVID-19 pandemic, the existence of environmental factors such as low visibility, high levels of precipitation, and temperature variation, result in an increase in the number of traffic accidents over the course of the pandemic. 
 #### Q2 FINDINGS:
 
@@ -19,6 +20,7 @@ Did time of day increase the likelihood of accidents before or during Covid-19? 
 
 #### Q4 - Hypothesis: 
 Null Hypothesis (H0): Neither daytime nor night time driving was significantly impacted by Covid-19. 
+
 Alternative Hypothesis (Ha): The number of traffic accidents during Covid pandemic is lower, both during the day and at night, than pre-pandemic because people would be less likely to travel due to Covid-19 restrictions.
 
 #### Q4 FINDINGS:
