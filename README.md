@@ -26,6 +26,6 @@ FINDINGS:
   823,131 (or about 39%) occured at night.
   
   CONCLUSIONS: 
-    Total combined accidents increased by 1,712,999 or about 405% during Covid. It is obvious that the Covid lockdown caused more           drivers to be on the road, that perhaps would have otherwise been at work with vehicles parked. Digging deeper into trends of           daytime vs. night time incidents, we found that daytime incidents increased by about 351% during Covid, whereas nigth time             incidents increased by about 527%. So, even though there were far more incidents during the day both pre and during Covid, there       was a significantly higher increase in night time incidents during Covid.
+    Total combined accidents increased by 1,712,999 or about 405% during Covid. It is obvious that the Covid lockdown caused more           drivers to be on the road, that perhaps would have otherwise been at work with vehicles parked. Digging deeper into trends of           daytime vs. night time incidents, we found that daytime incidents increased by about 351% during Covid, whereas nigth time             incidents increased by about 527%. So, even though there were far more incidents during the day both pre and during Covid, there       was a significantly higher rate increase in night time incidents during Covid.
   
  
