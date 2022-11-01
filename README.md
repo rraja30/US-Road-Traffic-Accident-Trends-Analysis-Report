@@ -6,14 +6,14 @@ Null Hypothesis(H0): There is no evidence of a coorelation between environmental
 Alternative Hypothesis (Ha): Based on data separated by the start of the COVID-19 pandemic, the existence of environmental factors such as low visibility, high levels of precipitation, and temperature variation, result in an increase in the number of traffic accidents over the course of the pandemic. 
 #### Q2 FINDINGS:
 
-Totals: 
-Our dataset contains information from January 2018 through December of 2021 with a total of 2,556,561 reported traffic incidents. For question 2, after cleaning and separating the data we examined 224,843 traffic accidents prior to the start of the pandemic and 2,010,423 traffic accidents that occured during the pandemic. In separating the data and then analyzing environmental factors, we hoped to see some difference in the number of traffic accidents 
-
-Before the Start of COVID-19 Pandemic: 
-
-During the COVID-19 Pandemic: 
+Our dataset contains information from January 2018 through December of 2021 with a total of 2,556,561 reported traffic incidents. For question 2, after cleaning and separating the data we examined 224,843 traffic accidents prior to the start of the pandemic and 2,010,423 traffic accidents that occured during the pandemic. In separating the data and then analyzing environmental factors, we hoped to see some difference in the number of traffic accidents to then make comparisions regarding environmental factors; however, we found that there was not a significant increase in traffic accidents as a result of the pandemic. 
 
 Conclusions: 
+
+Effects of Visibility: We graphed visibility at the time of the accident on a scatter plot, which resulted in a heavily left skewed scatter plot which suggests that visibility did not have an effect on traffic accidents. Most of the data indicated that traffic accidents took place while visibility was over 10 miles. 
+ 
+Effects of Temperature: We created a bar graph that showcases the number of traffic incidents with the 25 most common temperatures in the dataset 
+Effects of Precipitation: 
 
 #### Q4: 
 Did time of day increase the likelihood of accidents before or during Covid-19? Was day time or night time driving affected by Covid, based on number of accidents?
