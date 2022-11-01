@@ -1,4 +1,8 @@
 # Analysis Report
+#### Q1: Accidents Trend by year before and during the pandemic
+#### Q1 Hypothesis: There is evidnec of data to prove that the Accidents trend had significantly gone up during the pandemic when cpmpared to the 2 years prior. For various factors which are not present in the data. Open roads less traffic and higher speeds. Inexperienced/ First time drivers on the roads?
+Null Hypothesis(H0): 
+
 #### Q2: How do environmental variables (visibility, precipitation, and temperature) affect the number of traffic accidents before and during the Covid-19 Pandemic?
 #### Q2 Hypothesis: 
 Null Hypothesis(H0): There is no evidence of a coorelation between environmental factors and traffic accidents, even when analyzed before and during the COVID-19 pandemic. 
