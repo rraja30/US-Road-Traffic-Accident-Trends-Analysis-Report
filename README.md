@@ -1,7 +1,9 @@
 # US Road Traffic Accident Trends Analysis Report
-#### Q1: Accidents Trend by year before and during the pandemic
+#### Q1: Accidents Trend by Year Before and During The Pandemic
 #### Q1 Hypothesis:  Accidents trend had significantly gone up during the pandemic when cpmpared to the 2 years prior. For various factors which are not present in the data. Open roads less traffic and higher speeds. Inexperienced/ First time drivers on the roads?
+
 Null Hypothesis(H0): The US road traffic accident trends before (2018-2019) and during Covid-19 (2020-2021) did not differ.
+
 Alternative Hypothesis (Ha): The number of US road traffic accidents significantly decreased during Covid-19 due to Shelter-in_place orders and other Covid-19 related restrictions.
 
 Finding: We found that there were significantly more traffic accidents in the years of 2020 and 2021 (during Covid-19) compared to pre-pandemic years (2018-2019). Therefore we reject both the null and althernative hypothesis.
@@ -32,6 +34,7 @@ How do the numbers of road traffic accidents compare before (2018 - 2019) and du
 
 #### Q3 - Hypotheses: 
 Null Hypothesis (H0): The number of traffic accidents in the US did not differ significantly pre-Covid and during Covid-19.
+
 Alternative hypothesis (Ha): The number of traffic accidents during Covid pandemic ( is lower than pre-pandemic because people would be less likely to travel due to Covid-19 restrictions.
 
 #### Q3 FINDINGS:
