@@ -7,7 +7,9 @@ Q4 - Null Hypothesis (H0):
     Neither daytime nor night time driving was significantly impacted by Covid-19.
     Alternative hypothesis (Ha): The number of traffic accidents during Covid pandemic is lower, both during the day and at night, than     pre-pandemic because people would be less likely to travel due to Covid-19 restrictions.
 
-Findings:
+FINDINGS:
+
+
  TOTALS - 
   From January 2018 through December of 2021 this dataset looked at a total of 2,556,561 reported traffic incidents.
   Of the total, 1,602,212 (or about 63%) of these accidents occured during the day time.
