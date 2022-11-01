@@ -12,9 +12,9 @@ Conclusions:
 
 Effects of Visibility: We graphed visibility at the time of the accident on a scatter plot, which resulted in a heavily left skewed scatter plot which suggests that visibility did not have an effect on traffic accidents. Most of the data indicated that traffic accidents took place while visibility was over 10 miles. Thus we are able to draw the conclusion that visibility at the time of the accident has little individual impact on the occurence of traffic accidents. 
  
-Effects of Temperature: We created a bar graph that showcases the number of traffic incidents with the 25 most common temperatures in the dataset. We found that during the pandemic as well as prior to it, as temperature increased, the number of traffic accidents did as well. We assume this is true because with nicer weather conditions, a higher population will be driving, thus resulting in more chances for accidents to occur. 
+Effects of Temperature: We created a bar graph that showcases the number of traffic incidents with the 25 most common temperatures in the dataset. We found that during the pandemic as well as prior to it, as temperature increased, the number of traffic accidents did as well. We can attribute this to the fact that because of nicer weather conditions, a higher population will be driving, thus resulting in more chances for accidents to occur. 
 
-Effects of Precipitation: We graphed precipitation in inches at the time of the accident on a scatter plot, which resulted in a heavily left skewed scatter plot which suggests 
+Effects of Precipitation: We graphed precipitation in inches at the time of the accident on a scatter plot, which resulted in a heavily left skewed scatter plot in that most accidents occured when there was 0 precipitation. This suggests that precipitation as an individual variable does not have significant impact on traffic accidents occuring or not. We can attribute this to the fact that with the occurence of precipitation drivers are actually more cautious while driving, thus lowering the number of accidents while there is precipitation. 
 
 General Weather Condition: 
 
